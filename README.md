@@ -27,6 +27,6 @@
 😄 **Pronouns:** He/Him  
 
 ⚡ **Fun fact:**  
-I once automated a repetitive task that saved over **10 hours of manual effort every week**, sparking my obsession with making systems smarter, faster, and more efficient!  
+My code runs faster than my Wi-Fi when deadlines are near!
 
 ---

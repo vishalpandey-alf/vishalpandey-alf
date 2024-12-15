@@ -1,5 +1,3 @@
-Here's a more unique and engaging version of your GitHub bio:  
-
 ---
 
 👋 **Hi, I’m Vishal Pandey (@vishalpandey-alf)**  
@@ -32,5 +30,3 @@ Here's a more unique and engaging version of your GitHub bio:
 I once automated a repetitive task that saved over **10 hours of manual effort every week**, sparking my obsession with making systems smarter, faster, and more efficient!  
 
 ---
-
-Feel free to tweak it further if needed! 😊

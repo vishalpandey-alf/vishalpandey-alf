@@ -2,11 +2,11 @@
 
 👋 **Hi, I’m Vishal Pandey (@vishalpandey-alf)**  
 
-💻 **Aspiring Web Developer & Data Science Enthusiast**  
+💻 **Aspiring Data Scientist & AI/ML Enthusiast**  
 🔍 On a mission to craft **meaningful tech solutions** that bridge the gap between creativity and functionality.  
 
 🌟 **What drives me?**  
-- Building **intelligent systems** to solve real-world problems in data science, analytics, and web development.  
+- Building **intelligent systems** to solve real-world problems in data science and data analytics.  
 - Exploring how **technology can empower communities** and create a lasting impact.  
 
 📚 **Currently diving deep into:**  
@@ -17,7 +17,7 @@
 🤝 **Open to collaboration on:**  
 - Cutting-edge **open-source projects** that challenge the norm.  
 - **Data-driven solutions** designed to solve real-world challenges.  
-- Innovative **web development initiatives** for a smarter digital future.  
+- Innovative **AI/ML initiatives** for a smarter digital future.  
 
 📫 **Let’s connect:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishal-pandey-33aa35246/)  
